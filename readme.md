@@ -4,6 +4,6 @@
 
 To run you need:
 
-1. `git clone git@github.com:conekta-examples/hello-conekta-ruby-rails.git`
+1. `git clone git@github.com:conekta-examples/hello-conekta-ruby-charge-on-demand.git`
 2. run `rake secret` and copy to `config/secrets.yml.example` and save removing `.example` extension.
 3. Then you need to create a Conekta Developer account and copy and paste the keys to `config/secrets.yml`
